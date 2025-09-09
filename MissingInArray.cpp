@@ -19,5 +19,6 @@ int main(){
 
     cout<< "missing number is : " <<ans;
 
+
     return 0;
 }
